@@ -1,0 +1,11 @@
+.row_card {
+    display: flex;
+    background-color: greenyellow;
+    margin-top: 10px;
+}
+
+.column{
+    flex: 33.33%;
+    padding: 5px;
+    margin-top: 10px;
+}
